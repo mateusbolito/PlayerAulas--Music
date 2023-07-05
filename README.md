@@ -5,4 +5,6 @@
 + Tecnologias: Redux, TypeScript, tailwind css.
 
 +Projeto Online
-player-aulas-music.vercel.app
+
+
+player-aulas-music-hm4xzw2t6-mateusbolito.vercel.app
