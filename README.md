@@ -4,5 +4,5 @@
 + totalmente funcional com ispiraçao no dashboard da Rocketeseat.
 + Tecnologias: Redux, TypeScript, tailwind css.
 
-#Projeto Online
++Projeto Online
 player-aulas-music.vercel.app
